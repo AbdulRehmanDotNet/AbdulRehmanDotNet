@@ -137,7 +137,8 @@ I actively contribute to open-source projects, improving tools and frameworks I 
 
 ---
 
-> 💡 *“Building Something is easy but building something meaningful is difficult”*  
+> 💡 *“"Building something is easy, but building something that truly matters is what makes it difficult."
+”*  
 > — Abdul Rehman
 
 ---
