@@ -38,10 +38,23 @@ An interactive dashboard with real-time data visualization.
 
 ---
 
+#### 📚 **GIGCCL Library Management System**  
+An efficient library management system to track and manage books, users, and transactions.  
+- **Features**: Book borrowing system, User management, Transaction history, Late fee calculations
+- **Tech Stack**: ASP.NET Core MVC, Entity Framework, SQL Server, Bootstrap
+
+---
+
 ### 🧠 Skills & Technologies
 
-#### 💻 **Languages:**
-- **C#**, **JavaScript**, **SQL**, **HTML/CSS** , **PHP**
+#### 💻 **Languages**:
+- <div style="display: flex; justify-content: space-around;">
+    <span style="animation: fadeIn 2s;">**C#**</span>
+    <span style="animation: fadeIn 3s;">**JavaScript**</span>
+    <span style="animation: fadeIn 4s;">**SQL**</span>
+    <span style="animation: fadeIn 5s;">**HTML/CSS**</span>
+    <span style="animation: fadeIn 6s;">**PHP**</span>
+</div>
 
 #### 🛠️ **Frameworks & Tools:**
 - **ASP.NET Core MVC**, **Entity Framework**, **Angular**
@@ -65,7 +78,6 @@ An interactive dashboard with real-time data visualization.
 
 ---
 
-
 ### 🔥 Contributions to Open-Source Projects
 
 I actively contribute to open-source projects, improving tools and frameworks I believe in.
@@ -79,9 +91,21 @@ I actively contribute to open-source projects, improving tools and frameworks I 
 
 - 📧 [abdulrehman.dev@gmail.com](mailto:abdulrehman0317411@gmail.com)
 - 🌐 [GitHub](https://github.com/AbdulRehmanDotNet)
-- 💼 [LinkedIn](inkedin.com/in/abdul-rehman-22a4491a5/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-22a4491a5/)
 
 ---
 
-> 💡 *“Building Something is easy but building something meaningfull is difficult”*  
+> 💡 *“Building Something is easy but building something meaningful is difficult”*  
 > — Abdul Rehman
+
+---
+
+
+
+```html
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
