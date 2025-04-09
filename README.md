@@ -65,18 +65,6 @@ An interactive dashboard with real-time data visualization.
 
 ---
 
-### 💥 GitHub Stats (Hardcoded)
-
-Here’s a snapshot of my GitHub contributions! 💪
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
-</p>
 
 ### 🔥 Contributions to Open-Source Projects
 
