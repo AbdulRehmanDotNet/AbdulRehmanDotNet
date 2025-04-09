@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#3b82f6;">ABDUL REHMAN</span></h1>
-<h3 align="center">Full Stack .NET Developer | Builder of Real-World Web Apps | C# • ASP.NET • Angular</h3>
+<h1 align="center">Hey, I'm <span style="color:#3b82f6;">ABDUL REHMAN</span> 👋</h1>
+<h3 align="center">Full Stack .NET Developer | Builder of Real-World Apps | C# • ASP.NET Core • Angular</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulrehman&label=Profile%20views&color=blue" alt="abdulrehman" />
@@ -7,65 +7,93 @@
 
 ---
 
-### 💼 Projects I've Built
+### 🚀 Projects I’ve Built
 
-#### 🏥 Hospital Management System (ASP.NET Core MVC)
-- Patient, Doctor, Department, Billing, and Appointment Modules
-- Soft/Hard Delete + FluentValidation + Profile Picture Upload
-- Search Filters, Theme Switcher (Light/Dark), Full CRUD
-- Clean responsive UI with Bootstrap
-
-#### 📦 Inventory Management System
-- Role-based access (Admin, Staff)
-- Product, Category, Supplier, and Stock Handling
-- Barcode generation + Real-time inventory updates
-- SQL Server backend with EF Core
-
-#### 👨‍💻 User Management & Auth System
-- SHA256 Password Hashing + OTP-based Reset Flow
-- Tabbed layout for Profile, Picture, and Password Management
-- Auth via Forms, Responsive UI with login/signup views
-- Optional image upload with default fallback
-
-#### 📊 Dynamic Dashboard & Chart System
-- Admin dashboard with pie/bar charts using Chart.js
-- Realtime data display from SQL backend
-- Modularized with partial views and AJAX support
+#### 🏥 **Hospital Management System (ASP.NET Core MVC)**  
+A comprehensive system to manage hospital operations.  
+- **Modules**: Patients, Doctors, Departments, Billing, Appointments
+- **Features**: Full CRUD, Soft/Hard Deletes, FluentValidation, Image Upload, Search Filters, Theme Switcher (Light/Dark)
+- **Tech Stack**: ASP.NET Core MVC, Entity Framework, SQL Server, Bootstrap
 
 ---
 
-### 🧠 What I Work With
-
-- **Languages**: C#, JavaScript, HTML/CSS, SQL  
-- **Frameworks**: ASP.NET Core MVC, Entity Framework, Angular  
-- **Frontend**: Bootstrap, jQuery, AJAX, Razor Views  
-- **Database**: SQL Server  
-- **Auth & Security**: FluentValidation, SHA256, OTP, Session/Auth Cookies  
-- **Tools**: Git, Postman, Visual Studio, VS Code
+#### 📦 **Inventory Management System**  
+A real-time inventory tracker with role-based access.  
+- **Features**: Product & Stock Management, Barcode Generation, Role-based Access, Real-time Updates
+- **Tech Stack**: ASP.NET Core MVC, SQL Server, Bootstrap, JavaScript
 
 ---
 
-### ⚡ GitHub Stats (Let’s Flex 💪)
+#### 👨‍💻 **User Management & Auth System**  
+A user management system with secure login and profile features.  
+- **Features**: SHA256 password hashing, OTP-based reset, Tabbed profile management, Profile image upload
+- **Tech Stack**: ASP.NET Core MVC, Entity Framework, SQL Server, JavaScript
+
+---
+
+#### 📊 **Dynamic Dashboard & Chart System**  
+An interactive dashboard with real-time data visualization.  
+- **Features**: Dynamic Charts (Pie/Bar), Admin Dashboard, Real-time Data
+- **Tech Stack**: ASP.NET Core MVC, Chart.js, SQL Server, JavaScript
+
+---
+
+### 🧠 Skills & Technologies
+
+#### 💻 **Languages:**
+- **C#**, **JavaScript**, **SQL**, **HTML/CSS** , **PHP**
+
+#### 🛠️ **Frameworks & Tools:**
+- **ASP.NET Core MVC**, **Entity Framework**, **Angular**
+- **FluentValidation**, **JWT Authentication**
+- **Bootstrap**, **Chart.js**, **jQuery**
+
+#### 🗃️ **Database:**
+- **SQL Server** (T-SQL)
+- **MYSQL**
+
+#### 🌐 **Web Technologies:**
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**, **AJAX**, **jQuery**
+- **Responsive Web Design**, **Cross-Browser Compatibility**
+
+#### 🔐 **Authentication & Security:**
+- **Password Hashing** (SHA256)
+- **JWT**, **OAuth**, **Session Cookies**, **OTP Verification**
+
+#### 🧑‍💻 **Version Control & CI/CD:**
+- **Git**, **GitHub**, **GitLab**, **CI/CD pipelines**
+
+---
+
+### 💥 GitHub Stats (Hardcoded)
+
+Here’s a snapshot of my GitHub contributions! 💪
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
 </p>
 
----
+### 🔥 Contributions to Open-Source Projects
 
-### 🔗 Let's Connect
+I actively contribute to open-source projects, improving tools and frameworks I believe in.
 
-- 📧 Email: [abdulrehman.dev@gmail.com](mailto:abdulrehman0317411@gmail.com)
-- 🌐 GitHub: [github.com/abdulrehman](https://github.com/abdulrehman)
-<!-- Uncomment below if you have a LinkedIn -->
- 💼 LinkedIn: [linkedin.com/in/abdulrehman](https://www.linkedin.com/in/abdul-rehman-22a4491a5/) -->
+- **Private Contributions**: Frequently working on private repositories and personal projects.
+- **Open-Source**: Contributions to various repositories in **.NET Core**, **React**, and **Vue.js**.
 
 ---
 
-> 💡 *“I don't just write code — I solve real problems with clean solutions.”*  
+### 📫 Let's Connect
+
+- 📧 [abdulrehman.dev@gmail.com](mailto:abdulrehman0317411@gmail.com)
+- 🌐 [GitHub](https://github.com/AbdulRehmanDotNet)
+- 💼 [LinkedIn](inkedin.com/in/abdul-rehman-22a4491a5/)
+
+---
+
+> 💡 *“Building Something is easy but building something meaningfull is difficult”*  
 > — Abdul Rehman
