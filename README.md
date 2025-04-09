@@ -45,36 +45,78 @@ An efficient library management system to track and manage books, users, and tra
 
 ---
 
-### 🧠 Skills & Technologies
+### 💻 Languages & Technologies:
 
-#### 💻 **Languages**:
-- <div style="display: flex; justify-content: space-around;">
-    <span style="animation: fadeIn 2s;">**C#**</span>
-    <span style="animation: fadeIn 3s;">**JavaScript**</span>
-    <span style="animation: fadeIn 4s;">**SQL**</span>
-    <span style="animation: fadeIn 5s;">**HTML/CSS**</span>
-    <span style="animation: fadeIn 6s;">**PHP**</span>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-#### 🛠️ **Frameworks & Tools:**
-- **ASP.NET Core MVC**, **Entity Framework**, **Angular**
-- **FluentValidation**, **JWT Authentication**
-- **Bootstrap**, **Chart.js**, **jQuery**
+---
 
-#### 🗃️ **Database:**
-- **SQL Server** (T-SQL)
-- **MYSQL**
+### 🛠️ Frameworks & Tools:
 
-#### 🌐 **Web Technologies:**
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**, **AJAX**, **jQuery**
-- **Responsive Web Design**, **Cross-Browser Compatibility**
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluentValidation-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 
-#### 🔐 **Authentication & Security:**
-- **Password Hashing** (SHA256)
-- **JWT**, **OAuth**, **Session Cookies**, **OTP Verification**
+---
 
-#### 🧑‍💻 **Version Control & CI/CD:**
-- **Git**, **GitHub**, **GitLab**, **CI/CD pipelines**
+### 🗃️ Database:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Web Technologies:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AJAX-4A90E2?style=for-the-badge&logo=ajax&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge&logo=responsive-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross_Browser-333333?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+---
+
+### 🔐 Authentication & Security:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SHA256_Hashing-000000?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Session_Cookies-000000?style=for-the-badge&logo=cookiecutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OTP_Verification-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
+
+---
+
+### 🧑‍💻 Version Control & CI/CD:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
 
 ---
 
