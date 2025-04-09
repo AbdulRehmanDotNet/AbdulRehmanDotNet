@@ -1,73 +1,71 @@
-<h1 align="center">Hi 👋, I'm ABDUL REHMAN</h1>
-<h3 align="center">A Passionate Full Stack .NET Developer | ASP.NET Core | MVC | Angular</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌐 Currently working on: **Hospital Management System (ASP.NET Core MVC)**
-- 🔧 Skilled in: **C#, ASP.NET Core, Entity Framework, SQL Server, JavaScript, Angular, Bootstrap, FluentValidation**
-- 🌱 Always learning: **Clean Architecture, REST APIs, Microservices & Cloud Deployments**
-- 🔐 Focused on: **Authentication systems, Password hashing, OTP verification**
-- 📫 How to reach me: **[abdulrehman.dev@gmail.com](mailto:abdulrehman.dev@gmail.com)**
-- 💬 Ask me about: `.NET`, `MVC`, `REST`, `AJAX`, `FluentValidation`, `Razor Views`, `Bootstrap UI`
-
----
-
-### 🚀 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC-%237952B3.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FluentValidation-%230076C8.svg?style=for-the-badge"/>
-</p>
-
----
-
-### 📘 Projects
-
-- 🏥 **Hospital Management System**
-  - Full CRUD modules: Patient, Doctor, Appointment, Billing, Department
-  - FluentValidation, Image Upload, Theme Switcher, Search Filters
-  - Soft/Hard delete, Responsive UI, Authentication System
-
-- 👨‍⚕️ **User Management System**
-  - Password hashing, OTP-based password reset
-  - SHA256-based security, Profile image handling
-  - Clean tabbed layout for managing profiles
-
----
-
-### 🧠 My Principles
-
-> _"Code should be clean, readable, and efficient. Design should be responsive, minimal, and user-friendly."_  
-> _— Abdul Rehman_
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hey there 👋, I'm <span style="color:#3b82f6;">ABDUL REHMAN</span></h1>
+<h3 align="center">Full Stack .NET Developer | Builder of Real-World Web Apps | C# • ASP.NET • Angular</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman&show_icons=true&theme=radical" alt="Abdul's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman&theme=radical" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=abdulrehman&label=Profile%20views&color=blue" alt="abdulrehman" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 💼 Projects I've Built
 
-<p>
-  <a href="https://linkedin.com/in/abdulrehman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abdulrehman.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/abdulrehman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+#### 🏥 Hospital Management System (ASP.NET Core MVC)
+- Patient, Doctor, Department, Billing, and Appointment Modules
+- Soft/Hard Delete + FluentValidation + Profile Picture Upload
+- Search Filters, Theme Switcher (Light/Dark), Full CRUD
+- Clean responsive UI with Bootstrap
+
+#### 📦 Inventory Management System
+- Role-based access (Admin, Staff)
+- Product, Category, Supplier, and Stock Handling
+- Barcode generation + Real-time inventory updates
+- SQL Server backend with EF Core
+
+#### 👨‍💻 User Management & Auth System
+- SHA256 Password Hashing + OTP-based Reset Flow
+- Tabbed layout for Profile, Picture, and Password Management
+- Auth via Forms, Responsive UI with login/signup views
+- Optional image upload with default fallback
+
+#### 📊 Dynamic Dashboard & Chart System
+- Admin dashboard with pie/bar charts using Chart.js
+- Realtime data display from SQL backend
+- Modularized with partial views and AJAX support
+
+---
+
+### 🧠 What I Work With
+
+- **Languages**: C#, JavaScript, HTML/CSS, SQL  
+- **Frameworks**: ASP.NET Core MVC, Entity Framework, Angular  
+- **Frontend**: Bootstrap, jQuery, AJAX, Razor Views  
+- **Database**: SQL Server  
+- **Auth & Security**: FluentValidation, SHA256, OTP, Session/Auth Cookies  
+- **Tools**: Git, Postman, Visual Studio, VS Code
+
+---
+
+### ⚡ GitHub Stats (Let’s Flex 💪)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
 </p>
 
 ---
 
-⭐️ _Thanks for visiting my profile! Let’s build amazing things together._
+### 🔗 Let's Connect
 
+- 📧 Email: [abdulrehman.dev@gmail.com](mailto:abdulrehman0317411@gmail.com)
+- 🌐 GitHub: [github.com/abdulrehman](https://github.com/abdulrehman)
+<!-- Uncomment below if you have a LinkedIn -->
+ 💼 LinkedIn: [linkedin.com/in/abdulrehman](https://www.linkedin.com/in/abdul-rehman-22a4491a5/) -->
 
+---
+
+> 💡 *“I don't just write code — I solve real problems with clean solutions.”*  
+> — Abdul Rehman
