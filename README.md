@@ -102,10 +102,3 @@ I actively contribute to open-source projects, improving tools and frameworks I 
 
 
 
-```html
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
